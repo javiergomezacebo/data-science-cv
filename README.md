@@ -1,6 +1,8 @@
 data-science-cv
 ===============
 
+<h2>Intro</h2>
+<p>As inspired by Clare Corthell's <a href="https://github.com/datasciencemasters/go/">Data Science Masters</a>, I'm trying to emulate her but going one step further: actually writing down my progress through this road.</p>
 
 ### Resources:
 <ul>
@@ -31,6 +33,9 @@ data-science-cv
 <p>Web development</p>
 <ul>
   <li><a href="http://teamtreehouse.com/">Treehouse</a></li>
+  <ul>
+    <li>Rails Track: Total time of 6 days, 23 uninterrupted hours (if live coding when following)</li>
+  </ul>
   <li><a href="https://www.codeschool.com/courses">Code School</a></li>
   <li>Nettuts plus amazing <a href="https://tutsplus.com/course/improve-workflow-in-sublime-text-2/">Sublime Text 2</a> tutorial</li>
 </ul>
