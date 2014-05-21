@@ -20,12 +20,9 @@ data-science-cv
   <li>Doing Data Science - Straight Talk from the Frontline</li>
   <li>Data Analysis with Open Source Tools</li>
   <li>Designing Data Visualizations</li>
-  <li>Machine Learning for Hackers</li>
   <li>Mining the Social Web (2nd Edition)</li>
   <li>Programming Collective Intelligence</li>
   <li>Python for Data Analysis</li>
-  <li>R Cookbook</li>
-  <li>R in a Nutshell</li>
   <li>Social Network Analysis for Startups</li>
 </ul>
 
